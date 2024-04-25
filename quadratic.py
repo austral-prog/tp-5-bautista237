@@ -38,4 +38,4 @@ def derivation(a, b,c):
         return f"f'(x) = {2*a} * X"
         return f"f'(x) = 0"
     elif a!=0 and b==0:
-        return f"f'(x) = {2a} X"
+        return f"f'(x) = {2*a} X"
